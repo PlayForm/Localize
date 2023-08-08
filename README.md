@@ -58,7 +58,7 @@ export default { integrations: [inlang()] };
 
 ## Getting started
 
-#### Set `logger` to `0` if you do not want to see debug messages. Default is `2`.
+#### Set `Logger` to `0` if you do not want to see debug messages. Default is `2`.
 
 **`astro.config.ts`**
 
@@ -68,7 +68,7 @@ import inlang from "astro-inlang";
 export default {
 	integrations: [
 		inlang({
-			logger: 0,
+			Logger: 0,
 		}),
 	],
 };
