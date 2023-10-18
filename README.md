@@ -41,7 +41,7 @@ pnpx astro add astro-inlang
 
 First, install the `astro-inlang` integration like so:
 
-```
+```sh
 npm install -D -E astro-inlang
 ```
 
