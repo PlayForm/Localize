@@ -1,4 +1,4 @@
-# [astro-inlang] 🗜️
+# 🗜️ [astro-inlang]
 
 This **[Astro integration][astro-integration]** allows you to translate your
 components using InLang.
