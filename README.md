@@ -74,7 +74,7 @@ export default {
 };
 ```
 
-[astro-inlang]: HTTPS://NPMJS.Org/astro-inlang
+[astro-inlang]: https://NPMJS.Org/astro-inlang
 [astro-integration]: https://docs.astro.build/en/guides/integrations-guide/
 
 ## Changelog
