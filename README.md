@@ -1,4 +1,4 @@
-# 📔 [InlangAstro]
+# 📔 [Localize]
 
 This **[Astro integration][astro-integration]** allows you to translate your
 components using InLang.
@@ -16,7 +16,7 @@ command will:
 1. (Optionally) Install all necessary dependencies and peer dependencies
 2. (Also optionally) Update your `astro.config.*` file to apply this integration
 
-To install `InlangAstro`, run the following from your project directory and
+To install `Localize`, run the following from your project directory and
 follow the prompts:
 
 Using NPM:
@@ -39,7 +39,7 @@ pnpx astro add inlang-astro
 
 ### Install dependencies manually
 
-First, install the `InlangAstro` integration like so:
+First, install the `Localize` integration like so:
 
 ```sh
 npm install -D -E inlang-astro
@@ -74,7 +74,7 @@ export default {
 };
 ```
 
-[InlangAstro]: https://npmjs.org/inlang-astro
+[Localize]: https://npmjs.org/inlang-astro
 [astro-integration]: https://docs.astro.build/en/guides/integrations-guide/
 
 ## Changelog
