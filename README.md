@@ -74,8 +74,8 @@ export default {
 };
 ```
 
-[Localize]: https://npmjs.org/inlang-astro
-[astro-integration]: https://docs.astro.build/en/guides/integrations-guide/
+[Localize]: HTTPS://npmjs.org/inlang-astro
+[astro-integration]: HTTPS://docs.astro.build/en/guides/integrations-guide/
 
 ## Changelog
 
