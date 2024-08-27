@@ -3,7 +3,7 @@
 This **[Astro integration][astro-integration]** allows you to translate your
 components using InLang.
 
-## Installation
+## 🚀 Installation
 
 There are two ways to add integrations to your project. Let's try the most
 convenient option first!
